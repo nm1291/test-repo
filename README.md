@@ -1,4 +1,4 @@
 test-repo
 =========
 
-Test repository-1
+Test repository-one
